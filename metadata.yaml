@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39799'
     url: http://www.gutenberg.org/2009/agents/39799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39030#The-Influence-and-Development-of-English-GildsAs-Illustrated-by-the-History-of-the-Craft-Gild_
 gutenberg_issued: '2012-03-03'
 gutenberg_type: Text
 identifiers:
